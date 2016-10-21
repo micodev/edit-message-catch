@@ -10,7 +10,8 @@
 # SETUP
 ```sh
 $ sudo apt-get update &&sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make autoconf unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev && git clone https://www.github.com/micodev/edit-message-catch.git && sudo apt-get install lua-socket && sudo apt-get install lua-sec
-```                  |
+```                  
+
 
 # ABOUT ME
  I am an amateur developer from Iraq those porject is the result of hard working and studying lua no cheating no fake copy rights remove just me and my progrmming.
