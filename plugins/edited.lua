@@ -21,7 +21,10 @@ function is_admin(msg)
   return value
 end
 function run(msg,matches)
- sendChatAction(msg.chat.id,"typing")
+ if msg.chat.type == "private" then
+ sendMessage(msg.chat.id,"please,use me in group only")
+ return
+ end
     load = load_data("words.db")
     load.chat = load.chat or {}
  if matches[1] =="##new_chat_member##" and load.chat[tostring(msg.chat.id)] then
