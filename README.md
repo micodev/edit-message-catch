@@ -2,7 +2,7 @@
  This bot can be use to catch the user message when he edit a message in a chat and send the original one with option to send all change .
 # MY ACCOUNT FOR MORE HELP
 
-[![N|Solid](https://s15.postimg.org/gx4yupoaj/426137179_4641_1027391734227066917.jpg)](https://telegram.org/mico_iq)
+[![N|Solid](https://s15.postimg.org/gx4yupoaj/426137179_4641_1027391734227066917.jpg)](https://telegram.me/mico_iq)
 # IMPORTANT
 * PUT THE TOKEN IN CONFIG FILE BETWEEN THE TWO PUTATION .
 * do not try to buy this source or make a fake copy
